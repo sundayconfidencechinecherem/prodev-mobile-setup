@@ -10,6 +10,7 @@ export default function Index() {
       }}
     >
       <Text>** First App Created**</Text>
+      <Text>** First App Created**</Text>
     </View>
   );
 }
